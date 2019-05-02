@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainBox
+  - MainBox2
+  - star0
+  - star1
+  - star2
+  - timer
+  - Fire
+  - AudioPlayer
+  - AudioPlayer2
+  - MusicPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2854930039
+    locked: 0
+  - name: Candy
+    uniqueID: 2867544243
+    locked: 0
+  - name: ChainBlades
+    uniqueID: 2998678443
+    locked: 0
+  - name: Stars
+    uniqueID: 437544857
+    locked: 0
+  - name: Boxes
+    uniqueID: 8647605
+    locked: 0
+  - name: Fire
+    uniqueID: 225573577
+    locked: 0
+  - name: UI
+    uniqueID: 49059875
+    locked: 0
+  - name: UIButtons
+    uniqueID: 4056097079
+    locked: 0
+  - name: Clouds
+    uniqueID: 742285749
+    locked: 0
