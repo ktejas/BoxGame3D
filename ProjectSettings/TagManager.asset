@@ -14,6 +14,7 @@ TagManager:
   - AudioPlayer
   - AudioPlayer2
   - MusicPlayer
+  - onlyTrigger
   layers:
   - Default
   - TransparentFX
@@ -23,7 +24,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Lights
   - 
   - 
   - 
